@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.jpeg" width="220">
+</p>
+
 # DullOrder Studio — Official Creation & Originality Record
 
 DullOrder Studio is an independent NFT art studio publishing original blockchain-recorded artworks across multiple visual styles and collections.
